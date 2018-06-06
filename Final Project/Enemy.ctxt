@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=xName\ xLevel
+comment0.target=Enemy(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Enemy\r\n
+comment1.params=
+comment1.target=boolean\ isAlive()
+comment2.params=y
+comment2.target=void\ setXp(int)
+comment2.text=\r\n\r\n
+comment3.params=
+comment3.target=int\ getXp()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getLevel()
+comment6.params=
+comment6.target=void\ picture()
+numComments=7
